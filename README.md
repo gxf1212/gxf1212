@@ -13,3 +13,9 @@
 
 **[Subscribe my channel at Bilibili](https://space.bilibili.com/441196634)** for courses from abroad! [Visit my notes site](https://gxf1212.github.io/notes) if you want!
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gxf1212&rank_icon=github&theme=github_dark_dimmed" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gxf1212&layout=compact&stats_format=bytes&langs_count=8&card_width=320" />
+</a>
